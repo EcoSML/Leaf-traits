@@ -1,0 +1,8 @@
+{
+  "id": "daa7c869-a55a-40e9-a395-399e4f7a278e",
+  "name": "Leaf-traits",
+  "overview": "Leaf-level models for estimating foliar traits, across time, species and spectrometers.",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "adamc"
+}
